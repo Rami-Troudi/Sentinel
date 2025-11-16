@@ -3,7 +3,7 @@
 
 ## 5️⃣ `dashboard/README.md`
 
-```markdown
+
 # Dashboard – Interface assureur Sentinel
 
 Le dashboard est une application web destinée aux équipes de l’assureur.  
