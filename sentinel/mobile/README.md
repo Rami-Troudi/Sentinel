@@ -52,9 +52,3 @@ En phase hackathon, l’app peut :
 
 ---
 
-## Lancer l’app (exemple React Native avec Expo)
-
-```bash
-cd mobile
-npm install
-npx expo start
