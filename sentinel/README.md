@@ -1,0 +1,2 @@
+# Sentinel
+Prototype structure placeholder.
