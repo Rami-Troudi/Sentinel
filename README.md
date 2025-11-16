@@ -96,7 +96,7 @@ Schéma logique des flux de données et des interactions :
    ┌───────┴───────────────────┐
    ▼                           ▼ 
 [Service IA Cloud]     [Base de données]
-- Feature eng.        - Historique trajets
+- Feature eng.        - Historique scores
 - Classification      - Scores
 - Scoring             - Éco-points
            │
@@ -104,7 +104,7 @@ Schéma logique des flux de données et des interactions :
    ▼                       ▼
 [Application mobile]   [Dashboard assureur]
 - Score conducteur     - Vue portefeuille
-- Historique trajets   - Segmentation
+- Historique scores   - Segmentation
 - Éco-points           - Zones à risque
 - Récompenses          - KPIs RSE / sinistres
 ```
@@ -156,7 +156,7 @@ Schéma logique des flux de données et des interactions :
 - **Fonctionnalités** :
   - Collecte des données du boitier
   - affichage du **score de conduite** (global et par trajet),
-  - consultation de l’**historique des trajets** et événements,
+  - consultation de l’**historique des scores** et événements,
   - affichage et gestion des **éco-points**,
   - catalogue des **récompenses** (réductions, bons, avantages partenaires),
   - notifications de feedback (alertes, conseils d’amélioration).
