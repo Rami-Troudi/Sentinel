@@ -1,9 +1,5 @@
 
 ---
-
-## 4️⃣ `mobile/README.md`
-
-```markdown
 # Mobile – App conducteur Sentinel
 
 L’application mobile est l’interface principale pour le conducteur.  
