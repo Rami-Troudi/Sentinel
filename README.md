@@ -144,7 +144,6 @@ Schéma logique des flux de données et des interactions :
 - **Langage** : Python.  
 - **Bibliothèques** : NumPy, Pandas, scikit-learn.  
 - **Fonctions IA** :
-  - extraction de caractéristiques à partir des signaux (fenêtres temporelles),
   - classification de segments de conduite (normal, agressif, risqué),
   - détection d’événements critiques (freinage brusque, virage sec, oscillations anormales),
   - scoring global du conducteur,
